@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9-20循环语句", "9-20循环语句\9-20循环语句.vcxproj", "{C44DFE45-DC2C-4892-98D7-ED5BD68780DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C44DFE45-DC2C-4892-98D7-ED5BD68780DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C44DFE45-DC2C-4892-98D7-ED5BD68780DE}.Debug|Win32.Build.0 = Debug|Win32
+		{C44DFE45-DC2C-4892-98D7-ED5BD68780DE}.Release|Win32.ActiveCfg = Release|Win32
+		{C44DFE45-DC2C-4892-98D7-ED5BD68780DE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
